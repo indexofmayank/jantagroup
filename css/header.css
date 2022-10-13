@@ -32,10 +32,10 @@
 
 .header__nav__btn {
 	display: none;
-	font-size: 1.4rem;
+	font-size: 2rem;
 	font-weight: bold;
 	padding: 1rem;
-	color: var(--secondary-color);
+	color: #FF0000;
 	border-radius: 1.5rem;
 	text-transform: capitalize;
 	transition: background 0.3s linear;
