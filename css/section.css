@@ -14,15 +14,15 @@
 }
 
 .section.two {
-	background-image: url(../media/2.avif);
+	background-image: url(../media/2.jpg);
 }
 
 .section.three {
-	background-image: url(../media/3.avif);
+	background-image: url(../media/3.jpg);
 }
 
 .section.four {
-	background-image: url(../media/4.avif);
+	background-image: url(../media/4.jpg);
 }
 
 .section.five {
@@ -34,7 +34,10 @@
 }
 
 .section.seven {
-	background-image: url(../media/7.avif);
+	background-image: url(../media/7.png);
+}
+.section.joinUs {
+	background-image: url(../media/joinUs.jpg);
 }
 
 .section__content {
