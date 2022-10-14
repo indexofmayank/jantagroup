@@ -39,6 +39,9 @@
 .section.joinUs {
 	background-image: url(../media/joinUs.jpg);
 }
+.section.achivements {
+	background-image: url(../media/achivements.jpg);
+}
 
 .section__content {
 	position: absolute;
