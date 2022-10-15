@@ -59,6 +59,12 @@
 	font-weight: bold;
 	margin-bottom: 0.5rem;
 }
+.section__content__title_techincalServices {
+	font-size: 4rem;
+	font-weight: bold;
+	color: #FF0000;
+	margin-bottom: 0.5rem;
+}
 
 .section__content__subtitle {
 	font-size: 1.5rem;
